@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "550F5BAFBA833F58CCB52E9786846D8FECB57D44",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2ADB6BDB4A0C54629E7C1CBDDA75152129A3F3DE" : 9223372036854775807,
+    "550F5BAFBA833F58CCB52E9786846D8FECB57D44" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "82789622-2E5F-4687-83C1-3E3D764B12BD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2ADB6BDB4A0C54629E7C1CBDDA75152129A3F3DE" : "",
+    "550F5BAFBA833F58CCB52E9786846D8FECB57D44" : "AI%E5%BD%A9%E7%A5%A8\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "AI彩票",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "AI彩票.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/aizexin\/AIticket",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2ADB6BDB4A0C54629E7C1CBDDA75152129A3F3DE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/aizexin\/AI-.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "550F5BAFBA833F58CCB52E9786846D8FECB57D44"
+    }
+  ]
+}
